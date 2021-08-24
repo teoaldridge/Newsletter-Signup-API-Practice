@@ -17,3 +17,5 @@ I did this project as part of my studies with Angela Yu's "Complete 2021 Web Dev
 
 https://user-images.githubusercontent.com/74827533/130683562-76be5d89-3627-48ad-8ef5-b2e769bc5fe5.mp4
 
+## Acknowledgement
+[The Complete 2021 Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
