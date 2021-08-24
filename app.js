@@ -33,11 +33,13 @@ app.post("/", function(req, res) {
 
   const jsonData = JSON.stringify(data);
 
-  const url = "https://us6.api.mailchimp.com/3.0/lists/817102c7ea"
+  const url = "https://us6.api.mailchimp.com/3.0/lists/------"
+  //List ID is removed from file for security purposes.
 
   const options = {
     method: "POST",
-    auth: "teodora:a3245775867df9735d43e57cd7b98b68-us6"
+    auth: "--------"
+    // API key is removed from file for security purposes.
   }
 
   const request = https.request(url, options, function(response) {
