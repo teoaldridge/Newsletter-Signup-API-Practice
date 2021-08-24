@@ -4,14 +4,14 @@ This page will allow the user to input their name and e-mail address which will 
 This is a small full stack project which uses  NodeJS and ExpressJS as backend, along with third party APIs.  
 This is the first project I deployed on Heroku. 
 
-## I did this project as part of my studies with Angela Yu's "Complete 2021 Web Development Bootcamp"
+I did this project as part of my studies with Angela Yu's "Complete 2021 Web Development Bootcamp"
 
 ## Website deployed with Heroku: https://safe-tundra-74790.herokuapp.com/
 
-Programs used: 
-Front end: HTML, CSS, Bootstrap
-Back end: Node.js, Express
-Other technologies: npm, Nodemon, Heroku, Mailchimp
+## Programs used: 
+- Front end: HTML, CSS, Bootstrap
+- Back end: Node.js, Express
+- Other technologies: npm, Nodemon, Heroku, Mailchimp
 
 ## Video Demonstration: 
 
